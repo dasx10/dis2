@@ -69,6 +69,7 @@
                                             </div>
                                             @foreach($price_components as $component)
                                                 @if(!in_array($component->type,['insurance','pallet_price']))
+                                                    <p style="font-size: 1.125rem" class="RalewayRegular">{{$component->title}}</p>
                                                     <div class="col  form-group" style="margin-bottom: .97rem;">
                                                         <input maxlength="75" type="text" name="{{$component->type}}" value="{{$component->value}}" class="itemeach form-control check_space" placeholder="*{{$component->title}}" required>
                                                         <a href="#remove" onclick="delete_region('{{$component->id}}')" style="color:#f15409;line-height: 40px;margin-left: 10px;">Remove</a>
@@ -310,7 +311,7 @@
                             </div>
                         </div>
                     </div>
-                    <div role="tabpanel" class="tab-pane tab_first" id="loading_ports">
+                    <div role="tabpanel" class="tab-pane" id="loading_ports">
                         <div class="card">
                             <div class="card-header" style="padding-top:0.9375rem;padding-bottom: 0.9375rem;padding-right: 0.625rem;padding-left: 1.25rem;border-radius: 0;">
                                 <form class="loading_ports">
