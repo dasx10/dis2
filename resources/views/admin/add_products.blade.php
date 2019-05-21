@@ -2,6 +2,7 @@
 @section('head')
     @include('template.head_admin_template')
     <link rel="stylesheet" href="/public/css/jquery.sweet-modal.css">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.7/css/select2.min.css" rel="stylesheet" />
     <style>
         #cke_descr{
             width:100%;
@@ -21,6 +22,35 @@
         #cke_1_top{
             display: none;
         }
+        .select2-container--default .select2-selection--multiple{
+            background-color: white;
+            cursor: text;
+            border: 0.125rem solid #aab4bc!important;
+            font-family: 'RalewayRegular';
+            height: 3.6875rem;
+            font-size: 1.125rem;
+            border-radius: 0.5rem;
+            color: #a3a3a3;
+            padding: .375rem .6rem;
+        }
+        .select2-container--default .select2-selection--multiple .select2-selection__rendered{
+            height: 100%;
+        }
+        .select2-container--default .select2-selection--multiple .select2-selection__rendered li{
+            height: 100%;
+            display: flex;
+            align-items: center;
+            margin-top: 0;
+        }
+        .select2-container--default .select2-search--inline .select2-search__field{
+            margin-top:0;
+        }
+        .select2-search__field::-webkit-input-placeholder{
+            color: #a3a3a3!important;
+            font-size:1.125rem!important;
+            font-family:'RalewayRegular'!important;
+        }
+
     </style>
 @endsection
 @section('content')
@@ -78,7 +108,7 @@
                                         <button style="display: flex" class="form-control dropdown-toggle dropdown-edit select_name_brand" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                                             *Brand
                                         </button>
-                                        <div class="dropdown-menu dropdown-menu-edit" aria-labelledby="dropdownMenuButton">
+                                        <div class="dropdown-menu dropdown-menu-edit" style="z-index: 1;" aria-labelledby="dropdownMenuButton">
                                             @foreach($brands as $brand)
                                                 <div class="name_brand" style="position: relative"><a onclick="set_brand(this)" class="dropdown-item dropdown-catalog" href="#{{$brand->title}}">{{$brand->title}}</a><span class="dropdown-delete-item" onclick="delete_brand('{{$brand->id}}')">Delete</span></div>
                                             @endforeach
@@ -94,7 +124,7 @@
                                         <button style="display: flex" class="form-control dropdown-toggle dropdown-edit select_class_brand" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                                             *Shipping Class
                                         </button>
-                                        <div class="dropdown-menu dropdown-menu-edit" aria-labelledby="dropdownMenuButton">
+                                        <div class="dropdown-menu dropdown-menu-edit" style="z-index: 1;" aria-labelledby="dropdownMenuButton">
                                                 <div class="name_brand" style="position: relative">
                                                     <a onclick="setClass('Class 1')" class="dropdown-item dropdown-catalog" >Class 1</a>
                                                     <a onclick="setClass('Class 2')" class="dropdown-item dropdown-catalog" >Class 2</a>
@@ -136,7 +166,7 @@
                                         <button style="display: flex" class="form-control dropdown-toggle dropdown-edit select_p_wp_brand" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                                             *Pallet/Without pallet
                                         </button>
-                                        <div class="dropdown-menu dropdown-menu-edit" aria-labelledby="dropdownMenuButton">
+                                        <div class="dropdown-menu dropdown-menu-edit" style="z-index: 1;" aria-labelledby="dropdownMenuButton">
                                             <div class="name_brand" style="position: relative">
                                                 {{--<a onclick="setPalletWPallet('Pallet/Without pallet')" class="dropdown-item dropdown-catalog">Pallet/Without pallet</a>--}}
                                                 <a onclick="setPalletWPallet('Pallet')" class="dropdown-item dropdown-catalog">Pallet</a>
@@ -264,7 +294,11 @@
                                     <input type="text" onkeyup="return check(this);" onchange="return check(this);" name="pallet_weight" class="itemeach form-control check_space" placeholder="Pallet Weight">
                                 </div>
                                 <div class="col form-group">
-                                    <input type="text"  name="loading_port" class="itemeach form-control check_space" placeholder="*Loading Port 1" required>
+                                    <select class="js-example-basic-multiple form-control" name="states[]" multiple="multiple">
+                                        <option value="Loading Port 1">Loading Port 1</option>
+                                        <option value="Loading Port 2">Loading Port 2</option>
+                                    </select>
+                                    {{--<input type="text"  name="loading_port" class="itemeach form-control check_space" placeholder="*Loading Port 1" required>--}}
                                 </div>
                                 {{--<div class="col form-group">--}}
                                     {{--<input type="text"  name="loading_port2" class="itemeach form-control check_space" placeholder="Loading Port 2">--}}
@@ -384,7 +418,14 @@
     @include('template.script_admin_template')
     <script src="/public/js/jquery.sweet-modal.js"></script>
     <script src="/public/ckeditor/ckeditor.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.7/js/select2.min.js"></script>
+
     <script>
+        $(document).ready(function() {
+            $('.js-example-basic-multiple').select2({
+                placeholder: '*Loading Ports'
+            });
+        });
         {{--$('select[name="country"]').val('{{$products_data->country}}');--}}
         {{--$('select[name="regione"]').val('{{$products_data->regione}}');--}}
 
