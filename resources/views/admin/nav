@@ -1,0 +1,550 @@
+
+
+<div class="fusion-secondary-main-menu" style="">
+    <div class="fusion-row"><nav class="fusion-main-menu" aria-label="Main Menu">
+            <ul id="menu-main-navigation" class="fusion-menu">
+                <li id="menu-item-4921" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-4921" data-item-id="4921">
+                    <a href="https://www.dentalfearcentral.org/" class="fusion-background-highlight" role="menuitem">
+					<span class="menu-text">Home
+					</span></a></li>
+                <li id="menu-item-4923" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item menu-item-4923" data-item-id="4923">
+                    <a href="https://www.dentalfearcentral.org/fears/" class="fusion-background-highlight" role="menuitem">
+						<span class="menu-text">Common Fears
+						</span></a>
+                </li>
+                <li id="menu-item-4950" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-4950 fusion-dropdown-menu" data-item-id="4950" style="">
+                    <a href="https://www.dentalfearcentral.org/help/" class="fusion-background-highlight" role="menuitem" aria-haspopup="true">
+							<span class="menu-text">What Can Help
+							</span>
+                    </a>
+                    <ul role="menu" class="sub-menu">
+                        <li id="menu-item-4999" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4999 fusion-dropdown-submenu">
+                            <a href="https://www.dentalfearcentral.org/help/" class="fusion-background-highlight" role="menuitem">
+
+									<span>How to Tackle Your Fear of the Dentist – An Overview
+									</span></a>
+                        </li>
+                        <li id="menu-item-7139" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-7139 fusion-dropdown-submenu"><a href="https://www.dentalfearcentral.org/step-by-step-guide/" class="fusion-background-highlight" role="menuitem" aria-haspopup="true">
+
+										<span>Step-by-Step Guide
+										</span>
+                            </a>
+                            <ul role="menu" class="sub-menu">
+                                <li id="menu-item-4982" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4982"><a href="https://www.dentalfearcentral.org/help/find-a-dentist/decide/" class="fusion-background-highlight" role="menuitem">
+
+												<span>Making Up Your Mind
+												</span>
+                                    </a></li>
+                                <li id="menu-item-5009" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5009"><a href="https://www.dentalfearcentral.org/help/find-a-dentist/" class="fusion-background-highlight" role="menuitem">
+
+													<span>Finding the Right Dentist
+													</span>
+                                    </a></li>
+                                <li id="menu-item-4983" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4983"><a href="https://www.dentalfearcentral.org/help/find-a-dentist/first-appointment/" class="fusion-background-highlight" role="menuitem">
+
+														<span>Doomsday
+														</span></a></li>
+                                <li id="menu-item-4984" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4984"><a href="https://www.dentalfearcentral.org/help/find-a-dentist/aftermath/" class="fusion-background-highlight" role="menuitem">
+
+															<span>The Aftermath
+															</span></a></li>
+                                <li id="menu-item-4985" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4985"><a href="https://www.dentalfearcentral.org/help/find-a-dentist/gifts-for-dentists/" class="fusion-background-highlight" role="menuitem">
+
+																<span>Gift Ideas for Dentists
+																</span></a></li>
+                            </ul></li>
+                        <li id="menu-item-4998" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-4998 fusion-dropdown-submenu"><a href="https://www.dentalfearcentral.org/help/psychology/" class="fusion-background-highlight" role="menuitem" aria-haspopup="true">
+
+																<span>Psychological Strategies
+																</span></a>
+                            <ul role="menu" class="sub-menu">
+                                <li id="menu-item-6592" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6592"><a href="https://www.dentalfearcentral.org/help/psychology/signalling/" class="fusion-background-highlight" role="menuitem">
+
+																		<span>Signalling
+																		</span></a></li>
+                                <li id="menu-item-4995" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4995"><a href="https://www.dentalfearcentral.org/help/psychology/distraction/" class="fusion-background-highlight" role="menuitem">
+
+																			<span>Distraction
+																			</span></a></li>
+                                <li id="menu-item-4993" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4993"><a href="https://www.dentalfearcentral.org/help/psychology/tell-show-do/" class="fusion-background-highlight" role="menuitem">
+
+																				<span>Tell-Show-Do
+																				</span></a></li>
+                                <li id="menu-item-4994" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4994"><a href="https://www.dentalfearcentral.org/help/psychology/structured-time/" class="fusion-background-highlight" role="menuitem">
+
+																					<span>Structured Time
+																					</span></a></li>
+                                <li id="menu-item-5006" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5006"><a href="https://www.dentalfearcentral.org/help/psychology/relaxation-techniques/" class="fusion-background-highlight" role="menuitem">
+
+																						<span>Relaxation
+																						</span></a></li>
+                                <li id="menu-item-5007" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5007"><a href="https://www.dentalfearcentral.org/help/psychology/dental-hypnosis/" class="fusion-background-highlight" role="menuitem">
+
+																							<span>Hypnosis
+																							</span></a></li>
+                                <li id="menu-item-5008" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5008"><a href="https://www.dentalfearcentral.org/help/psychology/desensitisation/" class="fusion-background-highlight" role="menuitem">
+
+																								<span>Desensitisation
+																								</span></a></li>
+                            </ul></li>
+                        <li id="menu-item-5000" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-5000 fusion-dropdown-submenu"><a href="https://www.dentalfearcentral.org/help/technology/" class="fusion-background-highlight" role="menuitem" aria-haspopup="true">
+
+																								<span>Technology and Gadgets
+																								</span></a>
+                            <ul role="menu" class="sub-menu">
+                                <li id="menu-item-5001" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5001"><a href="https://www.dentalfearcentral.org/help/technology/noise-cancelling-devices/" class="fusion-background-highlight" role="menuitem">
+
+																										<span>Music and noise-cancelling devices
+																										</span></a></li>
+                                <li id="menu-item-4986" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4986"><a href="https://www.dentalfearcentral.org/help/technology/numbing-gel/" class="fusion-background-highlight" role="menuitem">
+
+																											<span>Numbing Gel
+																											</span></a></li>
+                                <li id="menu-item-4987" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4987"><a href="https://www.dentalfearcentral.org/help/technology/wand/" class="fusion-background-highlight" role="menuitem">
+
+																												<span>The Wand
+																												</span></a></li>
+                                <li id="menu-item-6294" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6294"><a href="https://www.dentalfearcentral.org/tips/gadgets/vibraject/" class="fusion-background-highlight" role="menuitem">
+
+																													<span>Vibraject
+																													</span></a></li>
+                                <li id="menu-item-4988" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4988"><a href="https://www.dentalfearcentral.org/help/technology/dental-button/" class="fusion-background-highlight" role="menuitem">
+
+																														<span>Dental Button
+																														</span></a></li>
+                            </ul></li>
+                        <li id="menu-item-7118" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-7118 fusion-dropdown-submenu"><a href="https://www.dentalfearcentral.org/sedation/" class="fusion-background-highlight" role="menuitem" aria-haspopup="true">
+
+																														<span>Sedation
+																														</span></a>
+                            <ul role="menu" class="sub-menu">
+                                <li id="menu-item-5010" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5010"><a href="https://www.dentalfearcentral.org/help/sedation-dentistry/" class="fusion-background-highlight" role="menuitem">
+
+																																<span>Is Dental Sedation Right For Me?
+																																</span></a></li>
+                                <li id="menu-item-4989" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4989"><a href="https://www.dentalfearcentral.org/help/sedation-dentistry/oral-sedation/" class="fusion-background-highlight" role="menuitem">
+
+																																	<span>Premedication and Oral Sedation
+																																	</span></a></li>
+                                <li id="menu-item-4990" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4990"><a href="https://www.dentalfearcentral.org/help/sedation-dentistry/laughing-gas/" class="fusion-background-highlight" role="menuitem">
+
+																																		<span>Inhalation Sedation
+																																		</span></a></li>
+                                <li id="menu-item-4991" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4991"><a href="https://www.dentalfearcentral.org/help/sedation-dentistry/iv-sedation/" class="fusion-background-highlight" role="menuitem">
+
+																																			<span>IV Sedation
+																																			</span></a></li>
+                                <li id="menu-item-4992" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4992"><a href="https://www.dentalfearcentral.org/help/sedation-dentistry/general-anaesthetic/" class="fusion-background-highlight" role="menuitem">
+
+																																				<span>General Anaesthesia
+																																				</span></a></li>
+                            </ul></li>
+                        <li id="menu-item-5004" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5004 fusion-dropdown-submenu"><a href="https://www.dentalfearcentral.org/help/how-to-find-a-psychologist/" class="fusion-background-highlight" role="menuitem">
+
+																																				<span>Finding a Therapist
+																																				</span></a></li>
+                        <li id="menu-item-5005" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5005 fusion-dropdown-submenu"><a href="https://www.dentalfearcentral.org/help/depression/" class="fusion-background-highlight" role="menuitem">
+
+																																					<span>Feeling Depressed or Suicidal?
+																																					</span></a></li>
+                    </ul></li>
+                <li id="menu-item-4922" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4922" data-item-id="4922"><a href="https://www.dentalfearcentral.org/forum/" class="fusion-background-highlight" role="menuitem">
+
+																																					<span class="menu-text">Forum
+																																					</span></a></li>
+                <li id="menu-item-5022" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-5022 fusion-dropdown-menu" data-item-id="5022"><a href="https://www.dentalfearcentral.org/faq/" class="fusion-background-highlight" role="menuitem" aria-haspopup="true">
+
+																																						<span class="menu-text">Dental Info
+																																						</span></a>
+                    <ul role="menu" class="sub-menu">
+                        <li id="menu-item-7123" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-7123 fusion-dropdown-submenu"><a href="https://www.dentalfearcentral.org/taking-care-of-your-teeth/" class="fusion-background-highlight" role="menuitem" aria-haspopup="true">
+
+																																								<span>Taking Care of Your Teeth
+																																								</span></a>
+                            <ul role="menu" class="sub-menu">
+                                <li id="menu-item-5020" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5020"><a href="https://www.dentalfearcentral.org/faq/gum-disease/" class="fusion-background-highlight" role="menuitem">
+
+																																										<span>How to Prevent Gum Problems
+																																										</span></a></li>
+                                <li id="menu-item-5019" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5019"><a href="https://www.dentalfearcentral.org/faq/tooth-decay/" class="fusion-background-highlight" role="menuitem">
+
+																																											<span>How to Prevent Tooth Decay
+																																											</span></a></li>
+                                <li id="menu-item-5021" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5021"><a href="https://www.dentalfearcentral.org/faq/acid-erosion/" class="fusion-background-highlight" role="menuitem">
+
+																																												<span>How to Prevent Acid Damage
+																																												</span></a></li>
+                                <li id="menu-item-5023" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5023"><a href="https://www.dentalfearcentral.org/faq/toothbrush-abrasion/" class="fusion-background-highlight" role="menuitem">
+
+																																													<span>How to Prevent Toothbrush Damage
+																																													</span></a></li>
+                                <li id="menu-item-5024" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5024"><a href="https://www.dentalfearcentral.org/faq/sensitive-teeth/" class="fusion-background-highlight" role="menuitem">
+
+																																														<span>Sensitive Teeth
+																																														</span></a></li>
+                            </ul></li>
+                        <li id="menu-item-7126" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-7126 fusion-dropdown-submenu"><a href="https://www.dentalfearcentral.org/dental-procedures/" class="fusion-background-highlight" role="menuitem" aria-haspopup="true">
+
+																																														<span>Dental Procedures
+																																														</span></a>
+                            <ul role="menu" class="sub-menu">
+                                <li id="menu-item-5026" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5026"><a href="https://www.dentalfearcentral.org/faq/check-up/" class="fusion-background-highlight" role="menuitem">
+
+																																																<span>Check-Ups
+																																																</span></a></li>
+                                <li id="menu-item-5027" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5027"><a href="https://www.dentalfearcentral.org/faq/scale-and-polish/" class="fusion-background-highlight" role="menuitem">
+
+																																																	<span>Dental Cleanings
+																																																	</span></a></li>
+                                <li id="menu-item-5028" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5028"><a href="https://www.dentalfearcentral.org/faq/deep-cleaning/" class="fusion-background-highlight" role="menuitem">
+
+																																																		<span>Deep Cleaning
+																																																		</span></a></li>
+                                <li id="menu-item-5029" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5029"><a href="https://www.dentalfearcentral.org/faq/fillings/" class="fusion-background-highlight" role="menuitem">
+
+																																																			<span>Fillings
+																																																			</span></a></li>
+                                <li id="menu-item-5030" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5030"><a href="https://www.dentalfearcentral.org/faq/root-canal/" class="fusion-background-highlight" role="menuitem">
+
+																																																				<span>Root Canal Treatment
+																																																				</span></a></li>
+                                <li id="menu-item-5031" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5031"><a href="https://www.dentalfearcentral.org/faq/rubber-dam/" class="fusion-background-highlight" role="menuitem">
+
+																																																					<span>The Rubber Dam
+																																																					</span></a></li>
+                            </ul></li>
+                        <li id="menu-item-5032" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5032 fusion-dropdown-submenu"><a href="https://www.dentalfearcentral.org/faq/healing/" class="fusion-background-highlight" role="menuitem">
+
+																																																					<span>Healing after Tooth Removal
+																																																					</span></a></li>
+                        <li id="menu-item-5033" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5033 fusion-dropdown-submenu"><a href="https://www.dentalfearcentral.org/faq/dentures/" class="fusion-background-highlight" role="menuitem">
+
+																																																						<span>Dentures
+																																																						</span></a></li>
+                        <li id="menu-item-5034" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5034 fusion-dropdown-submenu"><a href="https://www.dentalfearcentral.org/faq/soft-foods/" class="fusion-background-highlight" role="menuitem">
+
+																																																							<span>Soft Food Ideas
+																																																							</span></a></li>
+                        <li id="menu-item-5035" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5035 fusion-dropdown-submenu"><a href="https://www.dentalfearcentral.org/faq/diy-dentistry/" class="fusion-background-highlight" role="menuitem">
+
+																																																								<span>Dental Emergencies and DIY Dentistry
+																																																								</span></a></li>
+                        <li id="menu-item-5036" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5036 fusion-dropdown-submenu"><a href="https://www.dentalfearcentral.org/faq/tooth-numbering-systems/" class="fusion-background-highlight" role="menuitem">
+
+																																																									<span>Tooth and Gum Charts
+																																																									</span></a></li>
+                        <li id="menu-item-6022" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6022 fusion-dropdown-submenu"><a href="https://www.dentalfearcentral.org/faq/dental-glossary/" class="fusion-background-highlight" role="menuitem">
+
+																																																										<span>Dental Dictionary
+																																																										</span></a></li>
+                    </ul></li>
+                <li id="menu-item-4948" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-4948 fusion-dropdown-menu" data-item-id="4948"><a href="https://www.dentalfearcentral.org/tips/" class="fusion-background-highlight" role="menuitem" aria-haspopup="true">
+
+																																																										<span class="menu-text">For Dentists
+																																																										</span></a>
+                    <ul role="menu" class="sub-menu">
+                        <li id="menu-item-6918" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6918 fusion-dropdown-submenu"><a href="https://www.dentalfearcentral.org/tips/" class="fusion-background-highlight" role="menuitem">
+
+																																																												<span>Pro Homepage
+																																																												</span></a></li>
+                        <li id="menu-item-6907" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6907 fusion-dropdown-submenu"><a href="https://www.dentalfearcentral.org/tips/pro-tips/" class="fusion-background-highlight" role="menuitem">
+
+																																																													<span>Tips for Dealing with Dental Anxiety
+																																																													</span></a></li>
+                        <li id="menu-item-6908" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6908 fusion-dropdown-submenu"><a href="https://www.dentalfearcentral.org/tips/courses/" class="fusion-background-highlight" role="menuitem">
+
+																																																														<span>Courses and CPD
+																																																														</span></a></li>
+                        <li id="menu-item-6910" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6910 fusion-dropdown-submenu"><a href="https://www.dentalfearcentral.org/tips/gadgets/" class="fusion-background-highlight" role="menuitem">
+
+																																																															<span>Product Reviews
+																																																															</span></a></li>
+                        <li id="menu-item-6905" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6905 fusion-dropdown-submenu"><a href="https://www.dentalfearcentral.org/resources/" class="fusion-background-highlight" role="menuitem">
+
+																																																																<span>Resources
+																																																																</span></a></li>
+                        <li id="menu-item-6911" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6911 fusion-dropdown-submenu"><a href="http://eepurl.com/dMn4To" class="fusion-background-highlight" role="menuitem">
+
+																																																																	<span>Newsletter
+																																																																	</span></a></li>
+                    </ul></li>
+                <li id="menu-item-5038" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5038 fusion-last-menu-item" data-item-id="5038"><a href="https://www.dentalfearcentral.org/search/" class="fusion-icon-only-link fusion-flex-link fusion-background-highlight" role="menuitem">
+
+																																																																	<span class="menu-text">
+
+																																																																		<span class="menu-title">Search
+
+																																																																			<span class="fusion-menu-highlight-label" style="">Search
+																																																																			</span>
+																																																																		</span>
+																																																																	</span>
+
+                        <span class="fusion-megamenu-icon"><i class="glyphicon fa-search fas"></i>
+																																																																	</span></a></li>
+            </ul></nav><nav class="fusion-mobile-nav-holder fusion-mobile-menu-text-align-left" aria-label="Main Menu Mobile">
+            <ul id="mobile-menu-main-navigation" class="fusion-menu">
+                <li id="mobile-menu-item-4921" class="fusion-mobile-nav-item" data-item-id="4921" style=""><a href="https://www.dentalfearcentral.org/" class="fusion-background-highlight" role="menuitem">
+
+																																																																			<span class="menu-text">Home
+																																																																			</span></a></li>
+                <li id="mobile-menu-item-4923" class="fusion-mobile-nav-item fusion-mobile-current-nav-item" data-item-id="4923" style=""><a href="https://www.dentalfearcentral.org/fears/" class="fusion-background-highlight" role="menuitem">
+
+																																																																				<span class="menu-text">Common Fears
+																																																																				</span></a></li>
+                <li id="mobile-menu-item-4950" class="fusion-mobile-nav-item menu-item-has-children" data-item-id="4950" style=""><a href="https://www.dentalfearcentral.org/help/" class="fusion-background-highlight" role="menuitem">
+
+																																																																					<span class="menu-text">What Can Help
+																																																																					</span></a><button href="#" aria-label="Open Sub Menu" aria-expanded="false" class="fusion-open-submenu"></button>
+                    <ul role="menu" class="sub-menu" style="display: none;">
+                        <li id="mobile-menu-item-4999" class="fusion-mobile-nav-item" style=""><a href="https://www.dentalfearcentral.org/help/" class="fusion-background-highlight" role="menuitem">
+
+																																																																							<span>How to Tackle Your Fear of the Dentist – An Overview
+																																																																							</span></a></li>
+                        <li id="mobile-menu-item-7139" class="fusion-mobile-nav-item menu-item-has-children" style=""><a href="https://www.dentalfearcentral.org/step-by-step-guide/" class="fusion-background-highlight" role="menuitem">
+
+																																																																								<span>Step-by-Step Guide
+																																																																								</span></a><button href="#" aria-label="Open Sub Menu" aria-expanded="false" class="fusion-open-submenu"></button>
+                            <ul role="menu" class="sub-menu" style="display: none;">
+                                <li id="mobile-menu-item-4982" class="fusion-mobile-nav-item" style=""><a href="https://www.dentalfearcentral.org/help/find-a-dentist/decide/" class="fusion-background-highlight" role="menuitem">
+
+																																																																										<span>Making Up Your Mind
+																																																																										</span></a></li>
+                                <li id="mobile-menu-item-5009" class="fusion-mobile-nav-item" style=""><a href="https://www.dentalfearcentral.org/help/find-a-dentist/" class="fusion-background-highlight" role="menuitem">
+
+																																																																											<span>Finding the Right Dentist
+																																																																											</span></a></li>
+                                <li id="mobile-menu-item-4983" class="fusion-mobile-nav-item" style=""><a href="https://www.dentalfearcentral.org/help/find-a-dentist/first-appointment/" class="fusion-background-highlight" role="menuitem">
+
+																																																																												<span>Doomsday
+																																																																												</span></a></li>
+                                <li id="mobile-menu-item-4984" class="fusion-mobile-nav-item" style=""><a href="https://www.dentalfearcentral.org/help/find-a-dentist/aftermath/" class="fusion-background-highlight" role="menuitem">
+
+																																																																													<span>The Aftermath
+																																																																													</span></a></li>
+                                <li id="mobile-menu-item-4985" class="fusion-mobile-nav-item" style=""><a href="https://www.dentalfearcentral.org/help/find-a-dentist/gifts-for-dentists/" class="fusion-background-highlight" role="menuitem">
+
+																																																																														<span>Gift Ideas for Dentists
+																																																																														</span></a></li>
+                            </ul></li>
+                        <li id="mobile-menu-item-4998" class="fusion-mobile-nav-item menu-item-has-children" style=""><a href="https://www.dentalfearcentral.org/help/psychology/" class="fusion-background-highlight" role="menuitem">
+
+																																																																														<span>Psychological Strategies
+																																																																														</span></a><button href="#" aria-label="Open Sub Menu" aria-expanded="false" class="fusion-open-submenu"></button>
+                            <ul role="menu" class="sub-menu" style="display: none;">
+                                <li id="mobile-menu-item-6592" class="fusion-mobile-nav-item" style=""><a href="https://www.dentalfearcentral.org/help/psychology/signalling/" class="fusion-background-highlight" role="menuitem">
+
+																																																																																<span>Signalling
+																																																																																</span></a></li>
+                                <li id="mobile-menu-item-4995" class="fusion-mobile-nav-item" style=""><a href="https://www.dentalfearcentral.org/help/psychology/distraction/" class="fusion-background-highlight" role="menuitem">
+
+																																																																																	<span>Distraction
+																																																																																	</span></a></li>
+                                <li id="mobile-menu-item-4993" class="fusion-mobile-nav-item" style=""><a href="https://www.dentalfearcentral.org/help/psychology/tell-show-do/" class="fusion-background-highlight" role="menuitem">
+
+																																																																																		<span>Tell-Show-Do
+																																																																																		</span></a></li>
+                                <li id="mobile-menu-item-4994" class="fusion-mobile-nav-item" style=""><a href="https://www.dentalfearcentral.org/help/psychology/structured-time/" class="fusion-background-highlight" role="menuitem">
+
+																																																																																			<span>Structured Time
+																																																																																			</span></a></li>
+                                <li id="mobile-menu-item-5006" class="fusion-mobile-nav-item" style=""><a href="https://www.dentalfearcentral.org/help/psychology/relaxation-techniques/" class="fusion-background-highlight" role="menuitem">
+
+																																																																																				<span>Relaxation
+																																																																																				</span></a></li>
+                                <li id="mobile-menu-item-5007" class="fusion-mobile-nav-item" style=""><a href="https://www.dentalfearcentral.org/help/psychology/dental-hypnosis/" class="fusion-background-highlight" role="menuitem">
+
+																																																																																					<span>Hypnosis
+																																																																																					</span></a></li>
+                                <li id="mobile-menu-item-5008" class="fusion-mobile-nav-item" style=""><a href="https://www.dentalfearcentral.org/help/psychology/desensitisation/" class="fusion-background-highlight" role="menuitem">
+
+																																																																																						<span>Desensitisation
+																																																																																						</span></a></li>
+                            </ul></li>
+                        <li id="mobile-menu-item-5000" class="fusion-mobile-nav-item menu-item-has-children" style=""><a href="https://www.dentalfearcentral.org/help/technology/" class="fusion-background-highlight" role="menuitem">
+
+																																																																																						<span>Technology and Gadgets
+																																																																																						</span></a><button href="#" aria-label="Open Sub Menu" aria-expanded="false" class="fusion-open-submenu"></button>
+                            <ul role="menu" class="sub-menu" style="display: none;">
+                                <li id="mobile-menu-item-5001" class="fusion-mobile-nav-item" style=""><a href="https://www.dentalfearcentral.org/help/technology/noise-cancelling-devices/" class="fusion-background-highlight" role="menuitem">
+
+																																																																																								<span>Music and noise-cancelling devices
+																																																																																								</span></a></li>
+                                <li id="mobile-menu-item-4986" class="fusion-mobile-nav-item" style=""><a href="https://www.dentalfearcentral.org/help/technology/numbing-gel/" class="fusion-background-highlight" role="menuitem">
+
+																																																																																									<span>Numbing Gel
+																																																																																									</span></a></li>
+                                <li id="mobile-menu-item-4987" class="fusion-mobile-nav-item" style=""><a href="https://www.dentalfearcentral.org/help/technology/wand/" class="fusion-background-highlight" role="menuitem">
+
+																																																																																										<span>The Wand
+																																																																																										</span></a></li>
+                                <li id="mobile-menu-item-6294" class="fusion-mobile-nav-item" style=""><a href="https://www.dentalfearcentral.org/tips/gadgets/vibraject/" class="fusion-background-highlight" role="menuitem">
+
+																																																																																											<span>Vibraject
+																																																																																											</span></a></li>
+                                <li id="mobile-menu-item-4988" class="fusion-mobile-nav-item" style=""><a href="https://www.dentalfearcentral.org/help/technology/dental-button/" class="fusion-background-highlight" role="menuitem">
+
+																																																																																												<span>Dental Button
+																																																																																												</span></a></li>
+                            </ul></li>
+                        <li id="mobile-menu-item-7118" class="fusion-mobile-nav-item menu-item-has-children" style=""><a href="https://www.dentalfearcentral.org/sedation/" class="fusion-background-highlight" role="menuitem">
+
+																																																																																												<span>Sedation
+																																																																																												</span></a><button href="#" aria-label="Open Sub Menu" aria-expanded="false" class="fusion-open-submenu"></button>
+                            <ul role="menu" class="sub-menu" style="display: none;">
+                                <li id="mobile-menu-item-5010" class="fusion-mobile-nav-item" style=""><a href="https://www.dentalfearcentral.org/help/sedation-dentistry/" class="fusion-background-highlight" role="menuitem">
+
+																																																																																														<span>Is Dental Sedation Right For Me?
+																																																																																														</span></a></li>
+                                <li id="mobile-menu-item-4989" class="fusion-mobile-nav-item" style=""><a href="https://www.dentalfearcentral.org/help/sedation-dentistry/oral-sedation/" class="fusion-background-highlight" role="menuitem">
+
+																																																																																															<span>Premedication and Oral Sedation
+																																																																																															</span></a></li>
+                                <li id="mobile-menu-item-4990" class="fusion-mobile-nav-item" style=""><a href="https://www.dentalfearcentral.org/help/sedation-dentistry/laughing-gas/" class="fusion-background-highlight" role="menuitem">
+
+																																																																																																<span>Inhalation Sedation
+																																																																																																</span></a></li>
+                                <li id="mobile-menu-item-4991" class="fusion-mobile-nav-item" style=""><a href="https://www.dentalfearcentral.org/help/sedation-dentistry/iv-sedation/" class="fusion-background-highlight" role="menuitem">
+
+																																																																																																	<span>IV Sedation
+																																																																																																	</span></a></li>
+                                <li id="mobile-menu-item-4992" class="fusion-mobile-nav-item" style=""><a href="https://www.dentalfearcentral.org/help/sedation-dentistry/general-anaesthetic/" class="fusion-background-highlight" role="menuitem">
+
+																																																																																																		<span>General Anaesthesia
+																																																																																																		</span></a></li>
+                            </ul></li>
+                        <li id="mobile-menu-item-5004" class="fusion-mobile-nav-item" style=""><a href="https://www.dentalfearcentral.org/help/how-to-find-a-psychologist/" class="fusion-background-highlight" role="menuitem">
+
+																																																																																																		<span>Finding a Therapist
+																																																																																																		</span></a></li>
+                        <li id="mobile-menu-item-5005" class="fusion-mobile-nav-item" style=""><a href="https://www.dentalfearcentral.org/help/depression/" class="fusion-background-highlight" role="menuitem">
+
+																																																																																																			<span>Feeling Depressed or Suicidal?
+																																																																																																			</span></a></li>
+                    </ul></li>
+                <li id="mobile-menu-item-4922" class="fusion-mobile-nav-item" data-item-id="4922" style=""><a href="https://www.dentalfearcentral.org/forum/" class="fusion-background-highlight" role="menuitem">
+
+																																																																																																			<span class="menu-text">Forum
+																																																																																																			</span></a></li>
+                <li id="mobile-menu-item-5022" class="fusion-mobile-nav-item menu-item-has-children" data-item-id="5022" style=""><a href="https://www.dentalfearcentral.org/faq/" class="fusion-background-highlight" role="menuitem">
+
+																																																																																																				<span class="menu-text">Dental Info
+																																																																																																				</span></a><button href="#" aria-label="Open Sub Menu" aria-expanded="false" class="fusion-open-submenu"></button>
+                    <ul role="menu" class="sub-menu" style="display: none;">
+                        <li id="mobile-menu-item-7123" class="fusion-mobile-nav-item menu-item-has-children" style=""><a href="https://www.dentalfearcentral.org/taking-care-of-your-teeth/" class="fusion-background-highlight" role="menuitem">
+
+																																																																																																						<span>Taking Care of Your Teeth
+																																																																																																						</span></a><button href="#" aria-label="Open Sub Menu" aria-expanded="false" class="fusion-open-submenu"></button>
+                            <ul role="menu" class="sub-menu" style="display: none;">
+                                <li id="mobile-menu-item-5020" class="fusion-mobile-nav-item" style=""><a href="https://www.dentalfearcentral.org/faq/gum-disease/" class="fusion-background-highlight" role="menuitem">
+
+																																																																																																								<span>How to Prevent Gum Problems
+																																																																																																								</span></a></li>
+                                <li id="mobile-menu-item-5019" class="fusion-mobile-nav-item" style=""><a href="https://www.dentalfearcentral.org/faq/tooth-decay/" class="fusion-background-highlight" role="menuitem">
+
+																																																																																																									<span>How to Prevent Tooth Decay
+																																																																																																									</span></a></li>
+                                <li id="mobile-menu-item-5021" class="fusion-mobile-nav-item" style=""><a href="https://www.dentalfearcentral.org/faq/acid-erosion/" class="fusion-background-highlight" role="menuitem">
+
+																																																																																																										<span>How to Prevent Acid Damage
+																																																																																																										</span></a></li>
+                                <li id="mobile-menu-item-5023" class="fusion-mobile-nav-item" style=""><a href="https://www.dentalfearcentral.org/faq/toothbrush-abrasion/" class="fusion-background-highlight" role="menuitem">
+
+																																																																																																											<span>How to Prevent Toothbrush Damage
+																																																																																																											</span></a></li>
+                                <li id="mobile-menu-item-5024" class="fusion-mobile-nav-item" style=""><a href="https://www.dentalfearcentral.org/faq/sensitive-teeth/" class="fusion-background-highlight" role="menuitem">
+
+																																																																																																												<span>Sensitive Teeth
+																																																																																																												</span></a></li>
+                            </ul></li>
+                        <li id="mobile-menu-item-7126" class="fusion-mobile-nav-item menu-item-has-children" style=""><a href="https://www.dentalfearcentral.org/dental-procedures/" class="fusion-background-highlight" role="menuitem">
+
+																																																																																																												<span>Dental Procedures
+																																																																																																												</span></a><button href="#" aria-label="Open Sub Menu" aria-expanded="false" class="fusion-open-submenu"></button>
+                            <ul role="menu" class="sub-menu" style="display: none;">
+                                <li id="mobile-menu-item-5026" class="fusion-mobile-nav-item" style=""><a href="https://www.dentalfearcentral.org/faq/check-up/" class="fusion-background-highlight" role="menuitem">
+
+																																																																																																														<span>Check-Ups
+																																																																																																														</span></a></li>
+                                <li id="mobile-menu-item-5027" class="fusion-mobile-nav-item" style=""><a href="https://www.dentalfearcentral.org/faq/scale-and-polish/" class="fusion-background-highlight" role="menuitem">
+
+																																																																																																															<span>Dental Cleanings
+																																																																																																															</span></a></li>
+                                <li id="mobile-menu-item-5028" class="fusion-mobile-nav-item" style=""><a href="https://www.dentalfearcentral.org/faq/deep-cleaning/" class="fusion-background-highlight" role="menuitem">
+
+																																																																																																																<span>Deep Cleaning
+																																																																																																																</span></a></li>
+                                <li id="mobile-menu-item-5029" class="fusion-mobile-nav-item" style=""><a href="https://www.dentalfearcentral.org/faq/fillings/" class="fusion-background-highlight" role="menuitem">
+
+																																																																																																																	<span>Fillings
+																																																																																																																	</span></a></li>
+                                <li id="mobile-menu-item-5030" class="fusion-mobile-nav-item" style=""><a href="https://www.dentalfearcentral.org/faq/root-canal/" class="fusion-background-highlight" role="menuitem">
+
+																																																																																																																		<span>Root Canal Treatment
+																																																																																																																		</span></a></li>
+                                <li id="mobile-menu-item-5031" class="fusion-mobile-nav-item" style=""><a href="https://www.dentalfearcentral.org/faq/rubber-dam/" class="fusion-background-highlight" role="menuitem">
+
+																																																																																																																			<span>The Rubber Dam
+																																																																																																																			</span></a></li>
+                            </ul></li>
+                        <li id="mobile-menu-item-5032" class="fusion-mobile-nav-item" style=""><a href="https://www.dentalfearcentral.org/faq/healing/" class="fusion-background-highlight" role="menuitem">
+
+																																																																																																																			<span>Healing after Tooth Removal
+																																																																																																																			</span></a></li>
+                        <li id="mobile-menu-item-5033" class="fusion-mobile-nav-item" style=""><a href="https://www.dentalfearcentral.org/faq/dentures/" class="fusion-background-highlight" role="menuitem">
+
+																																																																																																																				<span>Dentures
+																																																																																																																				</span></a></li>
+                        <li id="mobile-menu-item-5034" class="fusion-mobile-nav-item" style=""><a href="https://www.dentalfearcentral.org/faq/soft-foods/" class="fusion-background-highlight" role="menuitem">
+
+																																																																																																																					<span>Soft Food Ideas
+																																																																																																																					</span></a></li>
+                        <li id="mobile-menu-item-5035" class="fusion-mobile-nav-item" style=""><a href="https://www.dentalfearcentral.org/faq/diy-dentistry/" class="fusion-background-highlight" role="menuitem">
+
+																																																																																																																						<span>Dental Emergencies and DIY Dentistry
+																																																																																																																						</span></a></li>
+                        <li id="mobile-menu-item-5036" class="fusion-mobile-nav-item" style=""><a href="https://www.dentalfearcentral.org/faq/tooth-numbering-systems/" class="fusion-background-highlight" role="menuitem">
+
+																																																																																																																							<span>Tooth and Gum Charts
+																																																																																																																							</span></a></li>
+                        <li id="mobile-menu-item-6022" class="fusion-mobile-nav-item" style=""><a href="https://www.dentalfearcentral.org/faq/dental-glossary/" class="fusion-background-highlight" role="menuitem">
+
+																																																																																																																								<span>Dental Dictionary
+																																																																																																																								</span></a></li>
+                    </ul></li>
+                <li id="mobile-menu-item-4948" class="fusion-mobile-nav-item menu-item-has-children" data-item-id="4948" style=""><a href="https://www.dentalfearcentral.org/tips/" class="fusion-background-highlight" role="menuitem">
+
+																																																																																																																								<span class="menu-text">For Dentists
+																																																																																																																								</span></a><button href="#" aria-label="Open Sub Menu" aria-expanded="false" class="fusion-open-submenu"></button>
+                    <ul role="menu" class="sub-menu" style="display: none;">
+                        <li id="mobile-menu-item-6918" class="fusion-mobile-nav-item" style=""><a href="https://www.dentalfearcentral.org/tips/" class="fusion-background-highlight" role="menuitem">
+
+																																																																																																																										<span>Pro Homepage
+																																																																																																																										</span></a></li>
+                        <li id="mobile-menu-item-6907" class="fusion-mobile-nav-item" style=""><a href="https://www.dentalfearcentral.org/tips/pro-tips/" class="fusion-background-highlight" role="menuitem">
+
+																																																																																																																											<span>Tips for Dealing with Dental Anxiety
+																																																																																																																											</span></a></li>
+                        <li id="mobile-menu-item-6908" class="fusion-mobile-nav-item" style=""><a href="https://www.dentalfearcentral.org/tips/courses/" class="fusion-background-highlight" role="menuitem">
+
+																																																																																																																												<span>Courses and CPD
+																																																																																																																												</span></a></li>
+                        <li id="mobile-menu-item-6910" class="fusion-mobile-nav-item" style=""><a href="https://www.dentalfearcentral.org/tips/gadgets/" class="fusion-background-highlight" role="menuitem">
+
+																																																																																																																													<span>Product Reviews
+																																																																																																																													</span></a></li>
+                        <li id="mobile-menu-item-6905" class="fusion-mobile-nav-item" style=""><a href="https://www.dentalfearcentral.org/resources/" class="fusion-background-highlight" role="menuitem">
+
+																																																																																																																														<span>Resources
+																																																																																																																														</span></a></li>
+                        <li id="mobile-menu-item-6911" class="fusion-mobile-nav-item" style=""><a href="http://eepurl.com/dMn4To" class="fusion-background-highlight" role="menuitem">
+
+																																																																																																																															<span>Newsletter
+																																																																																																																															</span></a></li>
+                    </ul></li>
+                <li id="mobile-menu-item-5038" class="fusion-mobile-nav-item" data-item-id="5038" style=""><a href="https://www.dentalfearcentral.org/search/" class="fusion-icon-only-link fusion-flex-link fusion-background-highlight" role="menuitem">
+
+                        <span class="fusion-megamenu-icon"><i class="glyphicon fa-search fas"></i>
+																																																																																																																															</span></a></li>
+            </ul></nav>
+    </div>
+</div>

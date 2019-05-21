@@ -1,0 +1,422 @@
+
+@font-face {
+    font-family: RalewayBold;
+    src: url('/public/css/fonts/Raleway-Bold.ttf');
+}
+@font-face {
+    font-family: RalewayMedium;
+    src: url('/public/css/fonts/Raleway-Medium.ttf');
+}
+@font-face {
+    font-family: RalewaySemiBold;
+    src: url('/public/css/fonts/Raleway-SemiBold.ttf');
+}
+@font-face {
+    font-family: RalewayRegular;
+    src: url('/public/css/fonts/Raleway-Regular.ttf');
+}
+@font-face {
+    font-family: RalewayLight;
+    src: url('/public/css/fonts/Raleway-Light.ttf');
+}
+@font-face {
+    font-family:RalewayItalic;
+    src: url('/public/css/fonts/Raleway-Italic.ttf');
+}
+@font-face {
+    font-family:Algerian;
+    src: url('/public/css/fonts/Algerian.ttf');
+}
+@font-face {
+    font-family:Arial;
+    src: url('/public/css/fonts/Arial.ttf');
+}
+@font-face {
+    font-family:ArialBlack;
+    src: url('/public/css/fonts/Arial-Black.ttf');
+}
+@font-face {
+    font-family:ArialNarrow;
+    src: url('/public/css/fonts/Arial-Narrow.ttf');
+}
+@font-face {
+    font-family:Bahnschrift;
+    src: url('/public/css/fonts/Bahnschrift.ttf');
+}
+@font-face {
+    font-family:BaskervilleOldFace;
+    src: url('/public/css/fonts/Baskerville Old Face.ttf');
+}
+@font-face {
+    font-family:Bauhaus93;
+    src: url('/public/css/fonts/Bauhaus 93.ttf');
+}
+@font-face {
+    font-family:BellMTSemiBold;
+    src: url('/public/css/fonts/Bell MT Bold.ttf');
+}
+@font-face {
+    font-family:BellMTItalic;
+    src: url('/public/css/fonts/Bell MT Italic.TTF');
+}
+@font-face {
+    font-family:BerlinSansFBSemiBold;
+    src: url('/public/css/fonts/Berlin Sans FB SemiBold.TTF');
+}
+@font-face {
+    font-family:BernandMTCondensed;
+    src: url('/public/css/fonts/Bernand MT Condensed.ttf');
+}
+@font-face {
+    font-family:BodoniMTPosterCompressed;
+    src: url('/public/css/fonts/Bodoni MT Poster Compressed.TTF');
+}
+@font-face {
+    font-family:BookAntiqua;
+    src: url('/public/css/fonts/Book Antiqua.TTF');
+}
+@font-face {
+    font-family:BookmanOldStyle;
+    src: url('/public/css/fonts/Bookman Old Style.TTF');
+}
+@font-face {
+    font-family:BookmanOldStyleSemibold;
+    src: url('/public/css/fonts/Bookman Old Style Bold.TTF');
+}
+@font-face {
+    font-family:BookmanOldStyleSemiItalic;
+    src: url('/public/css/fonts/Bookman Old Style Bold Italic.TTF');
+}
+@font-face {
+    font-family:BookmanOldStyleItalic;
+    src: url('/public/css/fonts/Bookman Old Style Italic.TTF');
+}
+@font-face {
+    font-family:BritannicSemibold;
+    src: url('/public/css/fonts/Britannic Bold.TTF');
+}
+@font-face {
+    font-family:BerlinSansFBDemiSemibold;
+    src: url('/public/css/fonts/Berlin Sans FB Demi Semibold.TTF');
+}
+@font-face {
+    font-family:BerlinSansFB;
+    src: url('/public/css/fonts/Berlin Sans FB.TTF');
+}
+@font-face {
+    font-family:Broadway;
+    src: url('/public/css/fonts/Broadway.TTF');
+}
+@font-face {
+    font-family:BrushScriptMTItalic;
+    src: url('/public/css/fonts/Brush Script MT Italic.TTF');
+}
+@font-face {
+    font-family:Calibri;
+    src: url('/public/css/fonts/calibri.ttf');
+}
+@font-face {
+    font-family:CalibriSemiBold;
+    src: url('/public/css/fonts/calibrib.ttf');
+}
+@font-face {
+    font-family:CalibriLight;
+    src: url('/public/css/fonts/calibril.ttf');
+}
+@font-face {
+    font-family:CalibriLightItalic;
+    src: url('/public/css/fonts/calibrili.ttf');
+}
+@font-face {
+    font-family:CalibriBoldItalic;
+    src: url('/public/css/fonts/calibriz.ttf');
+}
+@font-face {
+    font-family:CalifornianFBSemibold;
+    src: url('/public/css/fonts/CALIFB.TTF');
+}
+@font-face {
+    font-family:CalifornianFBItalic;
+    src: url('/public/css/fonts/CALIFI.TTF');
+}
+@font-face {
+    font-family:CalifornianFB;
+    src: url('/public/css/fonts/CALIFR.TTF');
+}
+@font-face {
+    font-family:Cambria;
+    src: url('/public/css/fonts/cambria.ttc');
+}
+@font-face {
+    font-family:CambriaBold;
+    src: url('/public/css/fonts/cambriab.ttf');
+}
+@font-face {
+    font-family:CambriaItalic;
+    src: url('/public/css/fonts/cambriai.ttf');
+}
+@font-face {
+    font-family:CambriaBoldItalic;
+    src: url('/public/css/fonts/cambriaz.ttf');
+}
+@font-face {
+    font-family:Candara;
+    src: url('/public/css/fonts/Candara.ttf');
+}
+@font-face {
+    font-family:CandaraBold;
+    src: url('/public/css/fonts/Candarab.ttf');
+}
+@font-face {
+    font-family:CandaraItalic;
+    src: url('/public/css/fonts/Candarai.ttf');
+}
+@font-face {
+    font-family:CandaraBoldItalic;
+    src: url('/public/css/fonts/Candaraz.ttf');
+}
+@font-face {
+    font-family:Centaur;
+    src: url('/public/css/fonts/CENTAUR.TTF');
+}
+@font-face {
+    font-family:Century;
+    src: url('/public/css/fonts/CENTURY.TTF');
+}
+@font-face {
+    font-family:Chiller;
+    src: url('/public/css/fonts/CHILLER.TTF');
+}
+@font-face {
+    font-family:ColonnaMT;
+    src: url('/public/css/fonts/COLONNA.TTF');
+}
+@font-face {
+    font-family:ComicSansMS;
+    src: url('/public/css/fonts/comic.ttf');
+}
+@font-face {
+    font-family:ComicSansMSSemibold;
+    src: url('/public/css/fonts/comicbd.ttf');
+}
+@font-face {
+    font-family:ComicSansMSItalic;
+    src: url('/public/css/fonts/comici.ttf');
+}
+@font-face {
+    font-family:Consola;
+    src: url('/public/css/fonts/consola.ttf');
+}
+@font-face {
+    font-family:ConsolaBold;
+    src: url('/public/css/fonts/consolab.ttf');
+}
+@font-face {
+    font-family:ConsolaItalic;
+    src: url('/public/css/fonts/consolai.ttf');
+}
+@font-face {
+    font-family:ConsolaBoldItalic;
+    src: url('/public/css/fonts/consolaz.ttf');
+}
+@font-face {
+    font-family:Constantia;
+    src: url('/public/css/fonts/constan.ttf');
+}
+@font-face {
+    font-family:ConstantiaBold;
+    src: url('/public/css/fonts/constanb.ttf');
+}
+@font-face {
+    font-family:ConstantiaItalic;
+    src: url('/public/css/fonts/constani.ttf');
+}
+@font-face {
+    font-family:ConstantiaBoldItalic;
+    src: url('/public/css/fonts/constanz.ttf');
+}
+@font-face {
+    font-family:Ebrima;
+    src: url('/public/css/fonts/ebrima.ttf');
+}
+@font-face {
+    font-family:FranklinGothicMedium;
+    src: url('/public/css/fonts/framd.ttf');
+}
+@font-face {
+    font-family: FranklinGothicMediumItalic;
+    src: url('/public/css/fonts/framdit.ttf');
+}
+@font-face {
+    font-family:FreestyleScript;
+    src: url('/public/css/fonts/FREESCPT.TTF');
+}
+@font-face {
+    font-family:Gabriola;
+    src: url('/public/css/fonts/Gabriola.ttf');
+}
+@font-face {
+    font-family:Georgia;
+    src: url('/public/css/fonts/georgia.ttf');
+}
+@font-face {
+    font-family:GeorgiaSemiBold;
+    src: url('/public/css/fonts/georgiab.ttf');
+}
+@font-face {
+    font-family:GeorgiaItalic;
+    src: url('/public/css/fonts/georgiai.ttf');
+}
+@font-face {
+    font-family:GeorgiaSemiItalic;
+    src: url('/public/css/fonts/georgiaz.ttf');
+}
+@font-face {
+    font-family:HarlowSolidItalic;
+    src: url('/public/css/fonts/HARLOWSI.TTF');
+}
+@font-face {
+    font-family:Harrington;
+    src: url('/public/css/fonts/HARNGTON.TTF');
+}
+@font-face {
+    font-family:HighToweText;
+    src: url('/public/css/fonts/HTOWERT.TTF');
+}
+@font-face {
+    font-family:Impact;
+    src: url('/public/css/fonts/impact.ttf');
+}
+@font-face {
+    font-family:InformalRome;
+    src: url('/public/css/fonts/INFROMAN.TTF');
+}
+@font-face {
+    font-family:KunstlerScript;
+    src: url('/public/css/fonts/KUNSTLER.TTF');
+}
+@font-face {
+    font-family:LucidaConsole;
+    src: url('/public/css/fonts/lucon.ttf');
+}
+@font-face {
+    font-family:MagnetoBold;
+    src: url('/public/css/fonts/MAGNETOB.TTF');
+}
+@font-face {
+    font-family:MalgunGothic;
+    src: url('/public/css/fonts/malgun.ttf');
+}
+@font-face {
+    font-family:SansSerif;
+    src: url('/public/css/fonts/micross.ttf');
+}
+@font-face {
+    font-family:Mistral;
+    src: url('/public/css/fonts/MISTRAL.TTF');
+}
+@font-face {
+    font-family:MyanmarText;
+    src: url('/public/css/fonts/mmrtext.ttf');
+}
+@font-face {
+    font-family:MonotypeCorsive;
+    src: url('/public/css/fonts/MTCORSVA.TTF');
+}
+@font-face {
+    font-family:MVBoli;
+    src: url('/public/css/fonts/mvboli.ttf');
+}
+@font-face {
+    font-family:NiagaraEngraved;
+    src: url('/public/css/fonts/NIAGENG.TTF');
+}
+@font-face {
+    font-family:NiagaraSolid;
+    src: url('/public/css/fonts/NIAGSOL.TTF');
+}
+@font-face {
+    font-family:NirmalaUI;
+    src: url('/public/css/fonts/Nirmala.ttf');
+}
+@font-face {
+    font-family:NewTaiLue;
+    src: url('/public/css/fonts/ntailu.ttf');
+}
+@font-face {
+    font-family:OldEnglishTextMT;
+    src: url('/public/css/fonts/OLDENGL.TTF');
+}
+@font-face {
+    font-family:PalatinoLinotype;
+    src: url('/public/css/fonts/pala.ttf');
+}
+@font-face {
+    font-family:SegoeMDL2Assets;
+    src: url('/public/css/fonts/segmdl2.ttf');
+}
+@font-face {
+    font-family:SegoePrint;
+    src: url('/public/css/fonts/segoepr.ttf');
+}
+@font-face {
+    font-family:SegoeUIBlack;
+    src: url('/public/css/fonts/seguibl.ttf');
+}
+@font-face {
+    font-family:SitkaText;
+    src: url('/public/css/fonts/Sitka.ttc');
+}
+@font-face {
+    font-family:Sylfaen;
+    src: url('/public/css/fonts/sylfaen.ttf');
+}
+@font-face {
+    font-family:Symbol;
+    src: url('/public/css/fonts/symbol.ttf');
+}
+@font-face {
+    font-family:Tahoma;
+    src: url('/public/css/fonts/tahoma.ttf');
+}
+@font-face {
+    font-family:TimesNewRoman;
+    src: url('/public/css/fonts/times.ttf');
+}
+@font-face {
+    font-family:TrebuchetMS;
+    src: url('/public/css/fonts/trebuc.ttf');
+}
+@font-face {
+    font-family:Verdana;
+    src: url('/public/css/fonts/verdana.ttf');
+}
+@font-face {
+    font-family:VinerHandITC;
+    src: url('/public/css/fonts/VINERITC.TTF');
+}
+@font-face {
+    font-family:VivaldiItalic;
+    src: url('/public/css/fonts/VIVALDII.TTF');
+}
+@font-face {
+    font-family:YuGothicBold;
+    src: url('/public/css/fonts/YuGothB.ttc');
+}
+@font-face {
+    font-family:YuGothicLight;
+    src: url('/public/css/fonts/YuGothL.ttc');
+}
+@font-face {
+    font-family:YuGothicMedium;
+    src: url('/public/css/fonts/YuGothM.ttc');
+}
+@font-face {
+    font-family:YuGothicRegular;
+    src: url('/public/css/fonts/YuGothR.ttc');
+}
+
+@font-face {
+    font-family:Dodger;
+    src: url('/public/css/fonts/dodger.ttf');
+}
