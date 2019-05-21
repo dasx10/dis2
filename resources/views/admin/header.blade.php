@@ -48,7 +48,7 @@ $notifications = Notifications::where('is_view','=','1')->orderBy('created_at','
                     <span style="position:relative;"><img src="/public/img/admin/icon_messages.png" alt="" style="width: 2.5625rem;height: 2.1875rem;">
                     <span class="align-self-center" style="left: 0px;position: absolute;bottom:0.5rem;text-align:center;width:100%;color: #4c6897;">{{$count_total}}</span>
                         </span>
-                    <span class="header_text_messages align-self-center">MESSAGES1
+                    <span class="header_text_messages align-self-center">MESSAGES
                         @if($count!=0)
                             <div class="inform"><span class="msg_point">{{$count}}</span></div>
                         @endif
