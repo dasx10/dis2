@@ -945,6 +945,7 @@
 
 
             //Statistics for per brand volume
+            //Statistics for per brand volume
             $i1=0;
             $per_country_ship1 = [];
             $per_country_ship_arr1 = [];
@@ -959,10 +960,10 @@
             foreach ($orders_data1 as $orders_datum) {
                 $i1++;
                 $users_data1 = ClientsData::where('users_id','=',$orders_datum->users_id)->first();
-                if(!empty($per_country_ship1[$users_data1->country])){
-                    $per_country_ship1[$users_data1->country]+=1;
+                if(!empty($per_country_ship1[$users_data1['country']])){
+                    $per_country_ship1[$users_data1['country']]++;
                 }else{
-                    $per_country_ship1[$users_data1->country]=1;
+                    $per_country_ship1[$users_data1['country']]=1;
                 }
             }
             $color = 0;
@@ -986,10 +987,10 @@
             foreach ($orders_data2 as $orders_datum) {
                 $i2++;
                 $users_data2 = ClientsData::where('users_id','=',$orders_datum->users_id)->first();
-                if(!empty($per_country_ship2[$users_data2->regione])){
-                    $per_country_ship2[$users_data2->regione]+=1;
+                if(!empty($per_country_ship2[$users_data2['regione']])){
+                    $per_country_ship2[$users_data2['regione']]++;
                 }else{
-                    $per_country_ship2[$users_data2->regione]=1;
+                    $per_country_ship2[$users_data2['regione']]=1;
                 }
             }
             $color = 0;
