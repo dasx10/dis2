@@ -460,7 +460,7 @@
                 'mail_data'=> $request->mail_data
             ], function ($m) use ($email) {
                 $m->from('dis@yobibyte.in.ua', 'DIS');
-                $m->to($email)->cc('info@dis-company.com')->subject('New user registration request');
+                $m->to($email)->cc('mishenkoartem26@gmail.com')->subject('New user registration request');
             });
 
             return response()->json([
