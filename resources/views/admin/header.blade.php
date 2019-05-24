@@ -26,7 +26,7 @@ $last_messages_data = ChatMessages::where([
     ->orderBy('created_at','DESC')
     ->get();
 
-//dd($last_messages_data);
+///dd($last_messages_data);
 
 $notifications_new = Notifications::where('is_new','=','1')->count();
 $notifications_all = Notifications::count();
